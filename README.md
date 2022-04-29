@@ -5,6 +5,8 @@ Drought Threshold Method
   <img src="https://github.com/iliasmachairas/iliasmachairas/blob/main/Images/water_droplet.jpg?raw=true"><br>
 </div>
 
+![Gitlab code coverage](https://img.shields.io/gitlab/coverage/iliasmachairas/drought_thres_method/master)
+
 What is it?
 ===============
 ---
